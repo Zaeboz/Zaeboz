@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,go,php,css,html,js,matlab,r,mysql,firebase,figma,git,github,postman,docker,eclipse,vscode,idea,linux,ai,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,go,php,css,html,js,matlab,r,mysql,firebase,figma,git,github,postman,docker,eclipse,vscode,idea,linux&perline=12" />
   </a>
 </p>
 <br>
@@ -31,7 +31,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Zaeboz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
