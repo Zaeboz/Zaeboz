@@ -1,5 +1,3 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zaeboz</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Zaeboz -->
@@ -44,5 +42,5 @@
   <a href="https://www.instagram.com/old.woods/"><img src="https://img.shields.io/badge/-@old.woods-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/juanenmanuel.gutierrezsanchez/"><img src="https://img.shields.io/badge/-@JEGS-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   <a href="https://twitter.com/Old_woodss"><img src="https://img.shields.io/badge/-@Old_woodss-000000?style=flat&logo=X&logoColor=white"/></a>
-  <a href="https://wa.me/573103591148"><img src="https://img.shields.io/badge/-@Juan E-25D366?style=flat&logo=WhatsApp&logoColor=white"/>/a>
+  <a href="https://wa.me/573103591148"><img src="https://img.shields.io/badge/-@Juan E-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
 </p>
