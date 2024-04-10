@@ -14,10 +14,8 @@
 ✉️ &nbsp;You can shoot me an email at jegs2206@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://jegs2206.hackerresume.io/d261f4c7-7e2f-4d38-8a61-a9489324dd74) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <!--tech stack icons-->
 <!--tech stack icons-->
 <p align="left">
