@@ -36,7 +36,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-enmanuel-gutierrez-s%C3%A1nchez-5a2744231"><img src="https://img.shields.io/badge/-Juan%20Enmanuel%20G-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zaeboz"><img src="https://img.shields.io/badge/-Juan%20Enmanuel%20G-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/jegs2206"><img src="https://img.shields.io/badge/-@jegs2206-00EA64?style=flat&logo=HackerRank&logoColor=black"/></a>
   <a href="mailto:jegs2206@gmail.com"><img src="https://img.shields.io/badge/-jegs2206@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/old.woods/"><img src="https://img.shields.io/badge/-@old.woods-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
